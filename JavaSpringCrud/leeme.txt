@@ -1,0 +1,29 @@
+
+Proyecto CRUD java Web con Spring 
+###########################################################
+
+***Instrucciones
+====================
+
+1. Crear los objetos de bd que se encuentran en la carpeta "bd"
+2. Cargar el proyecto desde ide netbeans 8
+3. La configurar el "localhost" en el puerto por defecto("80") o cambiarlo desde el "config" del "cpanel xampp"
+4. Se hizo uso del Bootstrap para una mejor vista de los datos, en caso no se visualice los formatos de manera correcta, revisar las version y conexión a red.
+
+
+***Consideraciones
+====================
+1. Base de datos y tablas estan hechas en MySql 5.0 en adelante
+2. Hacer uso del "xampp 2.3.2" el cual contiene el gestor de base de datos "Mysql", 
+	servidor donde se desplegará el proyecto "Apache"
+3. El proyecto se realizó basado en un tutorial del youtube, muy interesante
+
+****Fuente: 
+====================
+https://www.youtube.com/watch?v=VOUQ0WUVvCQ&list=PLbP-b3gf8hAW2ALibZexruFfYxD0idO36&index=8
+
+
+PD. Algunos otros proyectos que puedan interesar:
+https://github.com/manuel-martin3?tab=repositories 
+
+¡¡¡ Que lo disfruten.....!!! 	
